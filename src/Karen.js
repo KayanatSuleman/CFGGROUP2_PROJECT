@@ -11,3 +11,5 @@ function Karen () {
         </div>
     )
 };
+
+export default Karen;
