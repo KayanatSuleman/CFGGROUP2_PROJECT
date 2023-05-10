@@ -5,7 +5,7 @@ function Kayanat () {
             <br></br>
             <p> 
                 <li>My favourite hobby is ice skating</li>
-                <li>I enjoy dancing as it is a great way to exercise and enjoy music!</li>
+                <li>I enjoy ice skating because it allows me to skate really fast, and it is quite risky and I enjoy the adrenaline.</li>
 
             </p>
         </div>
